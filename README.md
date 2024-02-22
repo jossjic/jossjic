@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola a todos 🖐️
 
-<!--
-**jossjic/jossjic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 ¿Quién soy?
 
-Here are some ideas to get you started:
+- Mi nombre es **José Juan Irene cervantes** y soy **ingeniero en tecnologías computacionales**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Busco siempre ofrecer soluciones **rápidas e innovadoras**, considerando las habilidades de mis compañeros de equipo para lograr los mejores resultados. 
+
+- Me centro en el diseño, robustez, eficiencia, sostenibilidad y viabilidad de los proyectos en los que trabajo.
+
+## 💼 ¿En que estoy trabajando?
+
+## 🎓 ¿Qué estoy aprendiendo?
+Actualmente me estoy centrando en la gestión y desarrollo de proyectos, enfocado en las areas de conocimiento del SWEBOK (Software Engineering Body of Knowledge) y el PMBOK (Project Management Body of Knowledge).
+
+## 🔍 ¿Qué estoy buscando?
+
+Busco oportunidades en Programación y diseño de Webs y Aplicaciones Móviles; también busco fortalecer mis habilidades en testing y ciberseguridad.
+
+En búsqueda de oportunidades para hacer prácticas en el área de programación, que permita mi crecimiento intelectual y a desarrollar mis conocimientos técnicos, para crecer junto a la empresa y a mis compañeros de trabajo.
+
+
+>[!IMPORTANT]
+> ## ¡Contáctame!
+> - ¡Estoy abierto a colaboraciones y sugerencias! Siéntete libre de explorar, bifurcar y contribuir a mis repositorios.
+> - Para cualquier pregunta o comentario, no dudes en ponerte en contacto en:
+> - [LinkedIn](https://www.linkedin.com/in/jossjic/)
+> - [Correo](mailto:jossjic_03@hotmail.com)
+> - **¡Gracias por visitar y explorar mi portafolio!**
