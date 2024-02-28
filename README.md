@@ -9,6 +9,7 @@
 - Me centro en el diseño, robustez, eficiencia, sostenibilidad y viabilidad de los proyectos en los que trabajo.
 
 ## 💼 ¿En que estoy trabajando?
+Estoy trabajando en un sistema de gestión de donaciones para un albergue reconocido en puebla, utilizando react como principal herramienta.
 
 ## 🎓 ¿Qué estoy aprendiendo?
 Actualmente me estoy centrando en la gestión y desarrollo de proyectos, enfocado en las areas de conocimiento del SWEBOK (Software Engineering Body of Knowledge) y el PMBOK (Project Management Body of Knowledge).
