@@ -1,4 +1,9 @@
-# Hola a todos 🖐️
+
+> [!NOTE]
+> # Hola a todos 🖐️
+> - Abajo podrás encontrar todos **mis proyectos** divididos por tecnología en forma de **repositorios**.
+> - En cada **repositorio** hay una **lista de proyectos** con una breve **descripción, instrucciones y un GIF demostrativo**.
+> - ¡Estoy abierto a colaboraciones y sugerencias! Siéntete libre de **explorar, bifurcar y contribuir a mis repositorios**.
 
 ## 👤 ¿Quién soy?
 
