@@ -1,35 +1,33 @@
-
 > [!NOTE]
-> # Hola a todos 🖐️
-> - Abajo podrás encontrar todos **mis proyectos** divididos por tecnología en forma de **repositorios**.
-> - En cada **repositorio** hay una **lista de proyectos** con una breve **descripción, instrucciones y un GIF demostrativo**.
-> - ¡Estoy abierto a colaboraciones y sugerencias! Siéntete libre de **explorar, bifurcar y contribuir a mis repositorios**.
+> # Hello everyone 🖐️
+> - Below you will find all **my projects** divided by technology in the form of **repositories**.
+> - In each **repository** there is a **list of projects** with a brief **description, instructions, and a demonstrative GIF's**.
+> - I am open to collaborations and suggestions! Feel free to **explore, fork, and contribute to my repositories**.
 
-## 👤 ¿Quién soy?
+## 👤 Who am I?
 
-- Mi nombre es **José Juan Irene cervantes** y soy **ingeniero en tecnologías computacionales**.
+- My name is **José Juan Irene Cervantes** and I am a **computer technologies engineer**.
 
-- Busco siempre ofrecer soluciones **rápidas e innovadoras**, considerando las habilidades de mis compañeros de equipo para lograr los mejores resultados. 
+- I always strive to provide **quick and innovative solutions**, considering the skills of my team members to achieve the best results.
 
-- Me centro en el diseño, robustez, eficiencia, sostenibilidad y viabilidad de los proyectos en los que trabajo.
+- I focus on the design, robustness, efficiency, sustainability, and viability of the projects I work on.
 
-## 💼 ¿En que estoy trabajando?
-Estoy trabajando en un sistema de gestión de donaciones para un albergue reconocido en puebla, utilizando react como principal herramienta.
+## 💼 What am I working on?
+I am working on a donation management system for a shelter in Puebla, using React as the main tool.
 
-## 🎓 ¿Qué estoy aprendiendo?
-Actualmente me estoy centrando en la gestión y desarrollo de proyectos, enfocado en las areas de conocimiento del SWEBOK (Software Engineering Body of Knowledge) y el PMBOK (Project Management Body of Knowledge).
+## 🎓 What am I learning?
+I am currently focusing on project management and development, focused on the knowledge areas of SWEBOK (Software Engineering Body of Knowledge) and PMBOK (Project Management Body of Knowledge).
 
-## 🔍 ¿Qué estoy buscando?
+## 🔍 What am I looking for?
 
-Busco oportunidades en Programación y diseño de Webs y Aplicaciones Móviles; también busco fortalecer mis habilidades en testing y ciberseguridad.
+I am looking for opportunities in Web and Mobile Application Programming and Design; I am also looking to strengthen my skills in testing and cybersecurity.
 
-En búsqueda de oportunidades para hacer prácticas en el área de programación, que permita mi crecimiento intelectual y a desarrollar mis conocimientos técnicos, para crecer junto a la empresa y a mis compañeros de trabajo.
-
+Looking for opportunities to do internships in the programming area, that allow my intellectual growth and to develop my technical knowledge, to grow alongside the company and my work colleagues.
 
 >[!IMPORTANT]
-> ## ¡Contáctame!
-> - ¡Estoy abierto a colaboraciones y sugerencias! Siéntete libre de explorar, bifurcar y contribuir a mis repositorios.
-> - Para cualquier pregunta o comentario, no dudes en ponerte en contacto en:
+> ## Contact me!
+> - I am open to collaborations and suggestions! Feel free to explore, fork, and contribute to my repositories.
+> - For any questions or comments, do not hesitate to get in touch at:
 > - [LinkedIn](https://www.linkedin.com/in/jossjic/)
-> - [Correo](mailto:jossjic_03@hotmail.com)
-> - **¡Gracias por visitar y explorar mi portafolio!**
+> - [Email](mailto:jossjic_03@hotmail.com)
+> - **Thank you for visiting and exploring my portfolio!**
