@@ -13,7 +13,7 @@
 - I focus on the design, robustness, efficiency, sustainability, and viability of the projects I work on.
 
 ## 💼 What am I working on?
-I am working in AWS as a CSA Intern
+I am working in AWS as a CSA.
 
 ## 🎓 What am I learning?
 I am currently focusing on project management and development, focused on the knowledge areas of SWEBOK (Software Engineering Body of Knowledge) and PMBOK (Project Management Body of Knowledge).
